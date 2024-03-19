@@ -11,12 +11,12 @@ In this study, we employ the pix2pix model [(Isola et al., 2017)](https://doi.or
 
 ---
 ## Dataset
-We provide only a few samples that can be implemented quickly in the code. If you want to implement this methodology, you'll need two datasets. One is the target dataset for interpreting faults, and the other is the reflectivity models (or equivalent).  
+We provide only a few samples that can be implemented quickly in the code. If you want to implement this methodology, you'll need two datasets. One is the target dataset for interpreting faults, and the other is the reflectivity models with Labels.  
 
 In this example, we used the Netherlands Offshore F3 Block as the target dataset.
 - https://terranubis.com/datainfo/F3-Demo-2020
 
-We created the reflectivity model based on the paper referenced below. ***If there are any sketches available that closely resemble the structural characteristics of the field data, you can use those instead of reflectivity models.***
+We created the reflectivity models and labels based on the paper referenced below. ***If there are any sketches available that closely resemble the structural characteristics of the field data, you can use those instead of reflectivity models.***
 - Choi, W., & Pyun, S. (2021). Synthetic Training Data Generation for Fault Detection Based on Deep Learning. Geophysics and Geophysical Exploration, 24(3), 89–97. https://doi.org/10.7582/GGE.2021.24.3.089 [KOREAN]   
 
 
