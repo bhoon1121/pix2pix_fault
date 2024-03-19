@@ -1,6 +1,6 @@
+---
 # Synthetic seismic data generation with pix2pix for enhanced fault detection model training
 ### Byunghoon Choi, Sukjoon Pyun, Woochang Choi, and Yongchae Cho
----
 ---
 
 ## Description
