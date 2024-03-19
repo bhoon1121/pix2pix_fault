@@ -10,11 +10,6 @@ In this study, we employ the pix2pix model [(Isola et al., 2017)](https://doi.or
 #### Figure. Workflow of pix2pix-based fault detection
 
 ---
-## References
-- [Isola, P., Zhu, J. Y., Zhou, T., Efros, A. A., 2017. Image-to-image translation with conditional adversarial networks. In Proceedings of the IEEE conference on computer vision and pattern recognition, 1125-1134.]
-- [Ferreira, R. S., Noce, J., Oliveira, D. A., Brazil, E. V., 2019. Generating sketch-based synthetic seismic images with generative adversarial networks. IEEE Geoscience and Remote Sensing Letters, 17 (8), 1460-1464.]
-
----
 ## Dataset
 We provide only a few samples that can be implemented quickly in the code. If you want to implement this methodology, you'll need two datasets. One is the target dataset for interpreting faults, and the other is the reflectivity models (or equivalent).  
 
