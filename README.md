@@ -23,7 +23,7 @@ We created the reflectivity model based on the paper referenced below.
 ---
 ## Code
 The implementation of the methodology is divided into two folders.
-You can execute the code provided in each folder in the order indicated by the prefixed index.
+You can execute the code provided in each folder in the order indicated by the prefixed number index(01~).
 - https://github.com/bhoon1121/pix2pix_fault/tree/main/Loss_weight_compare
 - https://github.com/bhoon1121/pix2pix_fault/tree/main/P_PT_PA_PTA_method
 
