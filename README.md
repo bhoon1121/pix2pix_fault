@@ -20,6 +20,7 @@ In this study, we employ the pix2pix model (Isola et al., 2017) to generate seis
 ---
 ## Code
 The implementation of the methodology is divided into two folders.
+You can execute the code provided in each folder in the order indicated by the prefixed index.
 - https://github.com/bhoon1121/pix2pix_fault/tree/main/Loss_weight_compare
 - https://github.com/bhoon1121/pix2pix_fault/tree/main/P_PT_PA_PTA_method
 
