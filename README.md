@@ -6,7 +6,7 @@ Generating synthetic seismic data using pix2pix for fault detection model traini
 
 ##### Workflow is implemented step by step
 
-1. Make Sketch data from Target data
+1. [Make Sketch from Target data](https://github.com/bhoon1121/pix2pix_fault/blob/main/01_make_sketch_from_target.ipynb)
 2. Train pix2pix Model
 3. Make synthetic seismic section
 4. Train fault detection Model
