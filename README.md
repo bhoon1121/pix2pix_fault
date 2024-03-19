@@ -15,7 +15,7 @@ In this study, we employ the pix2pix model (Isola et al., 2017) to generate seis
 - [Ferreira, R. S., Noce, J., Oliveira, D. A., Brazil, E. V., 2019. Generating sketch-based synthetic seismic images with generative adversarial networks. IEEE Geoscience and Remote Sensing Letters, 17 (8), 1460-1464.](https://doi.org/10.1109/LGRS.2019.2945680.)
 
 ---
-## Data
+## Dataset
 We provide only a few samples that can be implemented quickly in the code. If you want to implement this methodology, you'll need two datasets. One is the target dataset for interpreting faults, and the other is the reflectivity models (or equivalent).  
 
 In this example, we used the Netherlands Offshore F3 Block as the target dataset.
