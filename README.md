@@ -11,8 +11,8 @@ In this study, we employ the pix2pix model (Isola et al., 2017) to generate seis
 
 ---
 ## References
-Isola, P., Zhu, J. Y., Zhou, T., Efros, A. A., 2017. Image-to-image translation with conditional adversarial networks. In Proceedings of the IEEE conference on computer vision and pattern recognition, 1125-1134. https://doi.org/10.48550/arXiv.1611.07004.
-Ferreira, R. S., Noce, J., Oliveira, D. A., Brazil, E. V., 2019. Generating sketch-based synthetic seismic images with generative adversarial networks. IEEE Geoscience and Remote Sensing Letters, 17 (8), 1460-1464. https://doi.org/10.1109/LGRS.2019.2945680.
+- [Isola, P., Zhu, J. Y., Zhou, T., Efros, A. A., 2017. Image-to-image translation with conditional adversarial networks. In Proceedings of the IEEE conference on computer vision and pattern recognition, 1125-1134.](https://doi.org/10.48550/arXiv.1611.07004.)
+- [Ferreira, R. S., Noce, J., Oliveira, D. A., Brazil, E. V., 2019. Generating sketch-based synthetic seismic images with generative adversarial networks. IEEE Geoscience and Remote Sensing Letters, 17 (8), 1460-1464.](https://doi.org/10.1109/LGRS.2019.2945680.)
 
 ---
 ## Data
