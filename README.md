@@ -1,10 +1,12 @@
 # Synthetic seismic data generation with pix2pix for enhanced fault detection model training
 ### Byunghoon Choi, Sukjoon Pyun, Woochang Choi, and Yongchae Cho
+---
+---
 
 ## Description
 In this study, we employ the pix2pix model (Isola et al., 2017) to generate seismic sections for fault detection, integrating it with sketch-based modeling (SBM) (Ferreira et al., 2019). Pix2pix is an image-to-image translation model within a conditional generative adversarial networks framework, tailored to the user needs by using images as conditional variables. We experiment with our proposed method using field data examples from the Netherlands Offshore F3 Block. Our approach successfully replicates texture-related attributes, including noise, frequency, and amplitude, to resemble field data, thereby facilitating fault interpretation. We provide insights from variations in seismic data and fault interpretation results based on four sketch generation methods and loss function weights of pix2pix. 
 
-##### Workflow of pix2pix-based fault detection
+#### Workflow of pix2pix-based fault detection
 ![image](https://github.com/bhoon1121/pix2pix_fault/assets/46484101/494434e7-402d-46c5-9938-ad93fe7e9489)
 
 ## References
