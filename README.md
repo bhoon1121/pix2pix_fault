@@ -16,6 +16,15 @@ In this study, we employ the pix2pix model (Isola et al., 2017) to generate seis
 
 ---
 ## Data
+We provide only a few samples that can be implemented quickly in the code.  
+If you want to implement this methodology, you'll need two types of dataset.  
+One is the target dataset for interpreting faults, and the other is the reflectivity model (or equivalent).  
+
+In this example, we used the Netherlands Offshore F3 Block as the target dataset.
+- https://terranubis.com/datainfo/F3-Demo-2020
+We created the reflectivity model based on the paper referenced below.
+- Choi, W., & Pyun, S. (2021). Synthetic Training Data Generation for Fault Detection Based on Deep Learning. Geophysics and Geophysical Exploration, 24(3), 89–97. https://doi.org/10.7582/GGE.2021.24.3.089 [KOREAN]
+***If there is a sketch available that closely resembles the structural characteristics of the field data, you can use that instead of a reflectivity model.***
 
 ---
 ## Code
