@@ -16,9 +16,7 @@ In this study, we employ the pix2pix model (Isola et al., 2017) to generate seis
 
 ---
 ## Data
-We provide only a few samples that can be implemented quickly in the code.  
-If you want to implement this methodology, you'll need two datasets.  
-One is the target dataset for interpreting faults, and the other is the reflectivity model (or equivalent).  
+We provide only a few samples that can be implemented quickly in the code. If you want to implement this methodology, you'll need two datasets. One is the target dataset for interpreting faults, and the other is the reflectivity model (or equivalent).  
 
 In this example, we used the Netherlands Offshore F3 Block as the target dataset.
 - https://terranubis.com/datainfo/F3-Demo-2020
