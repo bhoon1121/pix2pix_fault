@@ -16,9 +16,9 @@ We provide only a few samples that can be implemented quickly in the code. If yo
 In this example, we used the Netherlands Offshore F3 Block as the target dataset.
 - https://terranubis.com/datainfo/F3-Demo-2020
 
-We created the reflectivity model based on the paper referenced below.
+We created the reflectivity model based on the paper referenced below. ***If there are any sketches available that closely resemble the structural characteristics of the field data, you can use those instead of reflectivity models.***
 - Choi, W., & Pyun, S. (2021). Synthetic Training Data Generation for Fault Detection Based on Deep Learning. Geophysics and Geophysical Exploration, 24(3), 89–97. https://doi.org/10.7582/GGE.2021.24.3.089 [KOREAN]   
-***If there are any sketches available that closely resemble the structural characteristics of the field data, you can use those instead of reflectivity models.***
+
 
 ---
 ## Code
